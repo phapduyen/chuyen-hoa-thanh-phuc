@@ -1,0 +1,56 @@
+---
+title: "Chuyển Họa Thành Phúc"
+author: "Nguyễn Minh Tiến"
+site: bookdown::bookdown_site
+fontsize: 12pt
+output:
+  bookdown::gitbook:
+    config:
+      fontsettings:
+        theme: night
+        family: serif
+        size: 4
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+classoption: oneside
+
+description: "Chuyển Họa Thành Phúc - Nguyễn Minh Tiến soạn dịch và chú giải"
+cover-image: "images/cover.png"
+---
+
+
+
+<center>![Cover Image](images/cover.PNG)</center>
+
+
+# Mục lục {-}
+
+[Lời nói đầu](#loi-noi-dau)  
+
+BỐN ĐIỀU KHUYÊN DẠY CỦA TIÊN SINH VIÊN LIỄU PHÀM  
+  
+[Tự lập số mạng](#tu-lap-so-mang)  
+[Tu sửa lỗi lầm](#tu-sua-loi-lam)  
+[Tích chứa điều lành](#tich-chua-dieu-lanh)  
+[Giữ đức khiêm hạ](#giu-duc-khiem-ha)  
+
+[Sơ lược tiểu sử Viên Liễu Phàm](#so-luoc-tieu-su-vien-lieu-pham)  
+
+CHUYỆN DU TỊNH Ý GẶP THẦN BẾP  
+
+[Làm lành gặp dữ?](#lam-lanh-gap-du)  
+[Thần Bếp giáo huấn](#than-bep-giao-huan)  
+[Đổi tên Tịnh Ý, chuyển ý thanh tịnh](#chuyen-y-thanh-tinh)  
+[Chuyển họa thành phúc](#chuyen-hoa-thanh-phuc)
+
+[Lời bạt](#loi-bat)
+
+Download:  
+
+- [EPUB](chuyen-hoa-thanh-phuc.epub)
+- [PDF](chuyen-hoa-thanh-phuc.pdf)
+
+Hoan nghênh chia sẻ, phổ biến!  
+______  
+<small>Lưu ý: Có thể ấn vào biểu tượng chữ "A" phía trên cùng để điều chỉnh giao diện, phông chữ theo ý muốn.</small>
